@@ -1,0 +1,39 @@
+.App{
+  display: flex;
+  justify-content: center;
+}
+.HW{
+  text-align: center;
+  padding: 20px 0px;
+  background-color: rgb(249, 129, 169);
+  width: 500px;
+  border-radius: 20px;
+  margin: 10px;
+  
+}
+.inputFileld{
+  padding: 10px 0px;
+}
+.inputFileld input{
+  border-radius: 10px;
+  border: 0;
+  width: 300px;
+  height: 30px;
+}
+.TextAreaFiled{
+  padding: 10px 0px;
+}
+.TextAreaFiled textarea{
+  border-radius: 10px;
+  border: 0;
+  width: 300px;
+  height: 100px;
+}
+.HW button{
+  margin-top: 20px;
+  border-radius: 10px;
+  border: 0;
+  width: 300px;
+  height: 30px;
+  background-color: rgb(229, 226, 226);
+}
